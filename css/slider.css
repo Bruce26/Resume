@@ -48,7 +48,7 @@
 	opacity: 1;
 }
 .da-slide h2{
-	color:#FFFFFF;
+	color:Black;
 	width: 77%;
 	top:0px;
 	white-space: nowrap;
@@ -62,7 +62,7 @@
 }
 .da-slide p{
 	top:110px;
-	color: #FFFFFF;
+	color: black;
 	font-size: 1.4em;
 	height: 80px;
 	overflow: hidden;
@@ -88,7 +88,7 @@
 	top:175px; /*depends on p height*/
 	font-family: 'Open Sans', sans-serif;
 	display:inline-block;
-	color:#ffffff;
+	color:black;
 	font-size:1em;
 	font-weight:600;
 	text-decoration:none;
@@ -96,7 +96,7 @@
 	margin-left: 34%;
 	margin-top: 1em;
 	padding:12px 30px;
-	border:2px solid #fff;
+	border:2px solid black;
 	transition: 0.5s all;
 	-webkit-transition: 0.5s all;
 	-moz-transition: 0.5s all;
